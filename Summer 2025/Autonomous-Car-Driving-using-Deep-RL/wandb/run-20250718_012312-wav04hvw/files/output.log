@@ -1,0 +1,12 @@
+Episode 100/1000 | Reward: 0.76 | Steps: 38 | epsilon: 0.606
+Episode 200/1000 | Reward: 0.92 | Steps: 13 | epsilon: 0.367
+Episode 300/1000 | Reward: 0.94 | Steps: 10 | epsilon: 0.222
+Episode 400/1000 | Reward: 0.94 | Steps: 10 | epsilon: 0.135
+Episode 500/1000 | Reward: 0.95 | Steps: 8 | epsilon: 0.082
+Episode 600/1000 | Reward: 0.94 | Steps: 10 | epsilon: 0.049
+Episode 700/1000 | Reward: 0.95 | Steps: 8 | epsilon: 0.030
+Episode 800/1000 | Reward: 0.94 | Steps: 10 | epsilon: 0.018
+Episode 900/1000 | Reward: 0.95 | Steps: 8 | epsilon: 0.011
+Episode 1000/1000 | Reward: 0.95 | Steps: 8 | epsilon: 0.007
+Test episode reward: 0.95
+Test episode steps: 8

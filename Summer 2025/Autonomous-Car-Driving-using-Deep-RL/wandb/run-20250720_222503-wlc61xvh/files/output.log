@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "c:\Users\HP\OneDrive\Desktop\SUMMER_INTERN_IVLABS\Autonomous-Car-Driving-using-Deep-RL\MiniGridEnv\minigrid_MC.py", line 16, in <module>
+    env = gym.make("MiniGrid-Empty-6x6-v0",render_mode=None)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\gymnasium\envs\registration.py", line 689, in make
+    env_spec = _find_spec(id)
+               ^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\gymnasium\envs\registration.py", line 533, in _find_spec
+    _check_version_exists(ns, name, version)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\gymnasium\envs\registration.py", line 399, in _check_version_exists
+    _check_name_exists(ns, name)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\gymnasium\envs\registration.py", line 376, in _check_name_exists
+    raise error.NameNotFound(
+gymnasium.error.NameNotFound: Environment `MiniGrid-Empty-6x6` doesn't exist.
