@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "c:\Users\HP\OneDrive\Desktop\SUMMER_INTERN_IVLABS\Autonomous-Car-Driving-using-Deep-RL\MiniGridEnv\minigrid_MC.py", line 22, in <module>
-    Q = {((x, y),d): {z: 0 for z in range(3)} for d in range(0,4) for y in range(1, n) for x in range(1, n)}
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "c:\Users\HP\OneDrive\Desktop\SUMMER_INTERN_IVLABS\Autonomous-Car-Driving-using-Deep-RL\MiniGridEnv\minigrid_MC.py", line 22, in <dictcomp>
-    Q = {((x, y),d): {z: 0 for z in range(3)} for d in range(0,4) for y in range(1, n) for x in range(1, n)}
-                                                                                    ^
-NameError: name 'n' is not defined
